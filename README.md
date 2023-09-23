@@ -55,8 +55,8 @@
 | retrieve the decryption key?                                               |
 
 
-| Header 1 | Header 2 | Header 3 |
+| Date: July 23, 2024 | Entry: #1 | 
 | -------- | ------- | ------- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Description | Documenting a cybersecurity incident |
+| Tool(s) used | None. |
 
