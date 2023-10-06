@@ -9,7 +9,7 @@
 | Post-Incident Review (Planned): | ● Lessons Learned: A post-incident review will be conducted to identify vulnerabilities and weaknesses in the company's cybersecurity practices.</br> ● Paying the Ransom: The company is carefully considering the legal, ethical, and financial implications of paying the ransom and will make an informed decision. | 
 
 
-| Date: July 23, 2024  | Entry: #1 |
+| Date: July 23, 2024  | Entry: #2 |
 | ------------------- | --------- | 
 | Description  | Documenting a cybersecurity incident involving an unauthorized data breach.| 
 | Tool(s) used | None. |
@@ -18,3 +18,13 @@
 | Incident Handler's Assessment: | ● Immediate Actions Taken: Upon detection, the incident response team (IRT) was immediately notified. The affected server was isolated from the network to prevent further unauthorized access. IT personnel initiated an initial assessment to understand the extent of the breach.</br> ● Communication: Senior management and the legal department were informed of the incident. An external cybersecurity forensics team was engaged to conduct an initial analysis.</br> ● Response Plan: The incident response plan was activated, focusing on identifying the source of the breach and containing it. The external forensics team began collecting evidence. |
 | Incident Resolution (Ongoing): | ● Efforts are underway to assess the compromised data, including customer information and financial records.</br> ● The forensic analysis aims to identify the attack vector and determine the attackers' origin.</br> ● Preventative measures, including server patching and strengthening network security, have been initiated.</br> ● Communication with affected customers and regulatory authorities will be prioritized once the full extent of the breach is determined. |
 | Post-Incident Review (Planned): | ● A post-incident review will be conducted to identify vulnerabilities and weaknesses in the company's cybersecurity practices.</br> ● Recommendations for improving incident response procedures and patch management will be developed.</br> ● Legal and ethical considerations regarding data breach disclosure will be discussed during the review. | 
+
+
+| Date: July 23, 2024  | Entry: #3 |
+| --------------------- | --------- | 
+| Description  | Documenting a cybersecurity incident involving unauthorized access to financial data at a financial services firm.| 
+| Tool(s) used | None. |
+| The 5 W's  | ● Who: An unidentified external threat actor. What: Unauthorized access to financial data. Where: ABC Finance, a financial services company. ● When: Friday, February 12, 2025, at 11:30 AM. ● Why: The incident occurred when a threat actor exploited a vulnerability in a web application, gaining access to sensitive financial data. The motivation behind this unauthorized access appears to be financial gain or data theft. |
+| Incident Handler's Assessment: | ● Immediate Actions Taken: The incident response team (IRT) was alerted and initiated the incident response process.-The compromised web application was immediately taken offline to prevent further access.- Affected systems were isolated, and the IRT began to investigate the extent of unauthorized access. </br> ● Communication: Senior management, legal, and compliance teams were notified of the incident. All employees were reminded to be cautious regarding suspicious activities. A notice of the incident was prepared for regulatory reporting.</br> ● Response Plan: The incident response plan was activated, emphasizing forensic analysis and incident containment. Network and system logs were preserved for further analysis. A detailed timeline of the incident was documented.|
+| Incident Resolution (Ongoing): |  ● The compromised web application was patched and security measures strengthened.</br> ● Forensic analysis revealed the attacker's entry point and tactics, which will be used for potential legal action. </br> ● A review of security policies and access controls is underway to prevent similar incidents. |
+| Post-Incident Review (Planned): | ● A post-incident review will assess the effectiveness of intrusion detection and response. </br> ● Employee awareness training will be reinforced to mitigate future threats. </br> ● The incident will be used to refine the company's cyber incident response plan.| 
