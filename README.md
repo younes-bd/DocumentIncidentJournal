@@ -57,6 +57,9 @@
 | Incident Resolution (Ongoing): |  ● Data exfiltration confirmed, and the extent of the breach assessed. </br> ● Legal actions taken against the insider, including restraining orders.</br> ● Enhanced DLP and user activity monitoring implemented. |
 | Post-Incident Review (Planned): | ● A post-incident review will assess the effectiveness of insider threat monitoring.</br> ● Consideration of policy changes and improved employee satisfaction measures. | 
 
+give me an incident response case study examples and an incident with an incident handler's journal to put in my portfolio as cyber security analyst in markdown format. like
+
+
 | Date: May 20, 2027  | Entry: #7 |
 | --------------------- | --------- | 
 | Description  | Documenting a cybersecurity incident involving a ransomware attack on a municipal government's IT infrastructure. | 
